@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b0f19" />
+      <stop offset="50%" stop-color="#111827" />
+      <stop offset="100%" stop-color="#1e1b4b" />
+    </linearGradient>
+    
+    <linearGradient id="text-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="50%" stop-color="#818cf8" />
+      <stop offset="100%" stop-color="#c084fc" />
+    </linearGradient>
+
+    <linearGradient id="line-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#06b6d4" stop-opacity="0.2" />
+      <stop offset="50%" stop-color="#3b82f6" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#a855f7" stop-opacity="0.2" />
+    </linearGradient>
+
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <style>
+    @keyframes pulse {
+      0%, 100% { opacity: 0.3; transform: scale(0.98); }
+      50% { opacity: 0.9; transform: scale(1.02); }
+    }
+    @keyframes dash {
+      to { stroke-dashoffset: -100; }
+    }
+    @keyframes float-node {
+      0%, 100% { transform: translateY(0px); }
+      50% { transform: translateY(-8px); }
+    }
+    .grid-pattern {
+      stroke: rgba(255, 255, 255, 0.04);
+      stroke-width: 1;
+    }
+    .flow-line {
+      stroke: url(#line-grad);
+      stroke-width: 3;
+      stroke-dasharray: 12 8;
+      animation: dash 4s linear infinite;
+    }
+    .glowing-title {
+      font-family: system-ui, -apple-system, sans-serif;
+      font-weight: 900;
+      fill: url(#text-grad);
+      filter: drop-shadow(0 4px 12px rgba(99, 102, 241, 0.4));
+    }
+    .subtitle {
+      font-family: system-ui, -apple-system, sans-serif;
+      font-weight: 500;
+      fill: #94a3b8;
+      letter-spacing: 2px;
+    }
+    .node {
+      animation: float-node 3s ease-in-out infinite;
+    }
+  </style>
+
+  <!-- Background -->
+  <rect width="1200" height="380" rx="16" fill="url(#bg-grad)" />
+
+  <!-- Grid Overlay -->
+  <g class="grid-pattern">
+    <line x1="0" y1="60" x2="1200" y2="60" />
+    <line x1="0" y1="120" x2="1200" y2="120" />
+    <line x1="0" y1="180" x2="1200" y2="180" />
+    <line x1="0" y1="240" x2="1200" y2="240" />
+    <line x1="0" y1="300" x2="1200" y2="300" />
+    <line x1="200" y1="0" x2="200" y2="380" />
+    <line x1="400" y1="0" x2="400" y2="380" />
+    <line x1="600" y1="0" x2="600" y2="380" />
+    <line x1="800" y1="0" x2="800" y2="380" />
+    <line x1="1000" y1="0" x2="1000" y2="380" />
+  </g>
+
+  <!-- Dynamic Telemetry Wave Paths -->
+  <path class="flow-line" d="M 50,280 Q 300,120 600,240 T 1150,140" fill="none" />
+  <path class="flow-line" d="M 50,140 Q 350,300 650,150 T 1150,260" fill="none" style="animation-duration: 6s; animation-direction: reverse;" />
+
+  <!-- Nodes -->
+  <g class="node">
+    <circle cx="300" cy="188" r="8" fill="#38bdf8" filter="url(#glow)" />
+    <circle cx="600" cy="240" r="10" fill="#818cf8" filter="url(#glow)" />
+    <circle cx="900" cy="195" r="8" fill="#c084fc" filter="url(#glow)" />
+  </g>
+
+  <!-- Title & Subtitle -->
+  <text x="600" y="170" text-anchor="middle" font-size="52" class="glowing-title">⚡ AWESOME SERVICE ASSURANCE 📡</text>
+  <text x="600" y="225" text-anchor="middle" font-size="18" class="subtitle">TELECOM &amp; NETWORK SERVICE ASSURANCE • FAULT &amp; PERFORMANCE • SLA • QOS/QOE</text>
+  <text x="600" y="265" text-anchor="middle" font-size="15" fill="#64748b" font-family="system-ui, sans-serif">Curated SaaS Platforms &amp; High-Performance Open-Source Projects</text>
+
+  <!-- Outer Border -->
+  <rect x="2" y="2" width="1196" height="376" rx="14" fill="none" stroke="url(#text-grad)" stroke-width="2" stroke-opacity="0.5" />
+</svg>
