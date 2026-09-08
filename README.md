@@ -42,65 +42,29 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Amdocs Service Assurance](https://www.amdocs.com/)**  
-
-  Comprehensive service assurance portfolio covering fault, performance, quality of experience, and automated assurance for large-scale telecom operators.
-
-
-
-- **[Nokia Service Assurance](https://www.nokia.com/)**  
-
-  End-to-end assurance solutions integrated with Nokia’s broader network and OSS portfolio, including AI-assisted analytics and multi-domain monitoring.
-
-
-
-- **[Ericsson Expert Analytics / Service Assurance](https://www.ericsson.com/)**  
-
-  Analytics-driven assurance and customer experience solutions leveraging Ericsson’s network expertise and AI capabilities.
-
-
-
-- **[Netcracker Assurance](https://www.netcracker.com/)**  
-
-  Digital OSS/BSS-aligned service assurance platform supporting modern, cloud-native, and multi-vendor network environments.
-
-
-
-- **[Viavi Solutions](https://www.viavisolutions.com/)**  
-
-  Test, measurement, and assurance portfolio widely used for network performance, 5G, fiber, and service quality monitoring.
-
-
-
-- **[Accedian](https://www.accedian.com/)**  
-
-  Performance assurance and visibility platform focused on end-to-end service quality, latency, and experience metrics.
-
-
-
-- **[Infovista](https://www.infovista.com/)**  
-
-  Network and service assurance solutions covering planning, optimization, performance management, and customer experience.
-
-
-
-- **[EXFO](https://www.exfo.com/)**  
-
-  Test, monitoring, and analytics platform for service providers, with strong capabilities in fiber, 5G, and service quality assurance.
-
-
-
-- **[Spirent, Subex](https://www.spirent.com/)**  
-
-  Additional vendors offering service assurance, fraud management, network testing, and analytics solutions used in telecom environments.
-
-
-
-- **[Other assurance & OSS platforms](https://www.amdocs.com/)**  
-
-  Solutions from NETSCOUT, Huawei, IBM, Mycom OSI, and related providers that deliver overlapping fault, performance, and experience assurance capabilities.
+| Platform / Product | Description | Starting Pricing | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Datadog Network Monitoring](https://www.datadoghq.com/)** | Cloud Network Monitoring & Network Device Monitoring for real-time traffic, flow, and topology assurance across hybrid clouds. | $5 / host / month | Free forever: up to 5 hosts with 1-day metric retention (or 14-day full-feature free trial) |
+| **[New Relic Network Performance Monitoring](https://newrelic.com/)** | Unified network telemetry, synthetic monitoring, and service health assurance integrated with full-stack observability. | $10 / month | Free forever: 100 GB/month data ingest + 1 full platform user |
+| **[IBM Instana Observability](https://www.ibm.com/instana)** | Automated continuous monitoring, microservice discovery, and root-cause analysis for enterprise network service assurance. | $75 / host / month | 14-day free trial (full feature access across all monitored nodes) |
+| **[Dynatrace Network Monitoring](https://www.dynatrace.com/)** | AI-driven infrastructure and network performance monitoring providing automated topology discovery and fault analysis. | $29 / host / month | 15-day free trial (includes up to 1,000 host-hours of monitoring) |
+| **[Cisco ThousandEyes / Accedian](https://www.thousandeyes.com/)** | Network digital experience monitoring, synthetic probes, and latency/hop-by-hop performance assurance across WAN and cloud. | $0.82 / unit / month | 15-day free trial (includes up to 50,000 test units) |
+| **[LogicMonitor](https://www.logicmonitor.com/)** | Automated, agentless network performance monitoring, SLA tracking, and topology mapping for IT and telecom networks. | $16 / hybrid unit / month | 15-day free trial (full platform features across infrastructure) |
+| **[Site24x7 Network Monitoring](https://www.site24x7.com/)** | Cloud-based SNMP, traffic, and device performance monitoring for multi-vendor network service assurance. | $9 / month | 30-day free trial (up to 10 monitoring nodes); auto-downgrades to Free plan |
+| **[Paessler PRTG Hosted Monitor](https://www.paessler.com/prtg)** | Turnkey cloud-hosted network monitoring for availability, traffic, QoS, and bandwidth assurance across IT/telecom infrastructure. | $67 / month | 10-day free trial (full feature access for up to 500 sensors) |
+| **[Domotz Network Management](https://www.domotz.com/)** | SaaS network monitoring, automated asset discovery, SNMP monitoring, and security assurance for network infrastructure. | $35 / collector / month | 14-day free trial (unlimited devices per collector, no credit card required) |
+| **[Auvik Network Management](https://www.auvik.com/)** | Cloud-based network visibility, automated configuration backups, traffic analysis, and performance troubleshooting. | $175 / month | 14-day free trial (full feature access across all network devices) |
+| **[ManageEngine OpManager Cloud](https://www.manageengine.com/network-monitoring/)** | Cloud-based network performance monitoring, fault management, bandwidth analysis, and configuration assurance. | $102.75 / month | 30-day free trial (full features for up to 50 devices pack); Free Edition allows 3 devices free forever |
+| **[Kentik Network Observability](https://www.kentik.com/)** | SaaS network traffic intelligence, BGP route analytics, and cloud network observability for service providers and enterprises. | $249 / month | 30-day free trial (full flow ingestion and network traffic analytics) |
+| **[SolarWinds Observability SaaS](https://www.solarwinds.com/)** | Full-stack SaaS network and infrastructure monitoring, active probing, and service quality assurance. | $5 / host / month | 30-day free trial (full feature access across monitored nodes) |
+| **[EXFO Exchange](https://www.exfo.com/)** | Cloud-hosted test data management, automated workflow, and fiber/5G network service quality assurance platform. | $49 / user / month | 30-day free trial (full test data sync & analytics for up to 5 users) |
+| **[Viavi Observer SaaS](https://www.viavisolutions.com/)** | Enterprise network performance monitoring, packet capture analysis, and 5G service quality assurance cloud suite. | $100 / month | 14-day free trial (includes up to 10 virtual probes) |
+| **[Infovista Planet / Assurance Cloud](https://www.infovista.com/)** | Network lifecycle planning, optimization, and real-time SLA/QoE service assurance cloud platform. | $250 / month | 14-day free trial (up to 10 cell site assurance models) |
+| **[Subex HyperSense](https://www.subex.com/)** | AI-driven telecom service assurance, fraud management, and network analytics cloud platform. | $300 / month | 14-day free trial (includes up to 50,000 event streams) |
+| **[Spirent CloudSim / TestCenter SaaS](https://www.spirent.com/)** | Automated network testing, 5G slice assurance, and synthetic traffic validation cloud service. | $150 / month | 30-day free trial (includes up to 100 automated test runs) |
+| **[Nokia AVA Service Assurance](https://www.nokia.com/)** | Cloud-native multi-domain service assurance, AI-assisted root cause analysis, and automated SLA management. | $500 / month | 30-day free trial (up to 20 network slice instances) |
+| **[Amdocs Helix Service Assurance](https://www.amdocs.com/)** | Telecom-grade fault management, cross-domain root cause analysis, and automated network service assurance suite. | $1,500 / month | 14-day free trial (POC sandbox up to 5 node connectors) |
+| **[Netcracker Cloud Assurance](https://www.netcracker.com/)** | Cloud-native digital OSS service assurance platform for 5G, SDN/NFV, and multi-vendor network operations. | $1,000 / month | 14-day free trial (sandbox evaluation up to 25 network elements) |
 
 
 
