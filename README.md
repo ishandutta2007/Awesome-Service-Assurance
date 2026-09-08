@@ -72,58 +72,58 @@ These systems empower Communications Service Providers (CSPs), Managed Service P
 
 *Sorted by **GitHub Star Count** in descending order:*
 
-- **[Grafana](https://github.com/grafana/grafana)** [![GitHub stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers)  
+- **[Grafana](https://github.com/grafana/grafana)** [![GitHub_Stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers)  
   De-facto open-source operational dashboard, metric visualization, and multi-source analytics engine widely used for service health dashboards.
 
-- **[Prometheus](https://github.com/prometheus/prometheus)** [![GitHub stars](https://img.shields.io/github/stars/prometheus/prometheus?style=social&color=white)](https://github.com/prometheus/prometheus/stargazers)  
+- **[Prometheus](https://github.com/prometheus/prometheus)** [![GitHub_Stars](https://img.shields.io/github/stars/prometheus/prometheus?style=social&color=white)](https://github.com/prometheus/prometheus/stargazers)  
   Industry standard open-source metric collection, time-series storage, and alerting framework powering modern cloud and OSS monitoring.
 
-- **[Jaeger](https://github.com/jaegertracing/jaeger)** [![GitHub stars](https://img.shields.io/github/stars/jaegertracing/jaeger?style=social&color=white)](https://github.com/jaegertracing/jaeger/stargazers)  
+- **[Jaeger](https://github.com/jaegertracing/jaeger)** [![GitHub_Stars](https://img.shields.io/github/stars/jaegertracing/jaeger?style=social&color=white)](https://github.com/jaegertracing/jaeger/stargazers)  
   CNCF open-source end-to-end distributed tracing system for microservice latency, bottleneck analysis, and transaction assurance.
 
-- **[NetBox](https://github.com/netbox-community/netbox)** [![GitHub stars](https://img.shields.io/github/stars/netbox-community/netbox?style=social&color=white)](https://github.com/netbox-community/netbox/stargazers)  
+- **[NetBox](https://github.com/netbox-community/netbox)** [![GitHub_Stars](https://img.shields.io/github/stars/netbox-community/netbox?style=social&color=white)](https://github.com/netbox-community/netbox/stargazers)  
   Open-source infrastructure resource modeling platform (IPAM & DCIM) serving as the single source of truth for network topology & automation.
 
-- **[Fluentd](https://github.com/fluent/fluentd)** [![GitHub stars](https://img.shields.io/github/stars/fluent/fluentd?style=social&color=white)](https://github.com/fluent/fluentd/stargazers)  
+- **[Fluentd](https://github.com/fluent/fluentd)** [![GitHub_Stars](https://img.shields.io/github/stars/fluent/fluentd?style=social&color=white)](https://github.com/fluent/fluentd/stargazers)  
   Open-source unified data collector providing log parsing, buffering, and telemetry stream distribution.
 
-- **[Wireshark](https://github.com/wireshark/wireshark)** [![GitHub stars](https://img.shields.io/github/stars/wireshark/wireshark?style=social&color=white)](https://github.com/wireshark/wireshark/stargazers)  
+- **[Wireshark](https://github.com/wireshark/wireshark)** [![GitHub_Stars](https://img.shields.io/github/stars/wireshark/wireshark?style=social&color=white)](https://github.com/wireshark/wireshark/stargazers)  
   World standard open-source network protocol analyzer, deep packet inspection, and packet capture troubleshooting tool.
 
-- **[Zabbix](https://github.com/zabbix/zabbix)** [![GitHub stars](https://img.shields.io/github/stars/zabbix/zabbix?style=social&color=white)](https://github.com/zabbix/zabbix/stargazers)  
+- **[Zabbix](https://github.com/zabbix/zabbix)** [![GitHub_Stars](https://img.shields.io/github/stars/zabbix/zabbix?style=social&color=white)](https://github.com/zabbix/zabbix/stargazers)  
   Enterprise open-source monitoring software for networks, servers, virtual machines, and cloud availability assurance.
 
-- **[OpenTelemetry Collector](https://github.com/open-telemetry/opentelemetry-collector)** [![GitHub stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-collector?style=social&color=white)](https://github.com/open-telemetry/opentelemetry-collector/stargazers)  
+- **[OpenTelemetry Collector](https://github.com/open-telemetry/opentelemetry-collector)** [![GitHub_Stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-collector?style=social&color=white)](https://github.com/open-telemetry/opentelemetry-collector/stargazers)  
   High-performance, vendor-agnostic proxy to receive, process, and export telemetry data (metrics, logs, traces) across service boundaries.
 
-- **[LibreNMS](https://github.com/librenms/librenms)** [![GitHub stars](https://img.shields.io/github/stars/librenms/librenms?style=social&color=white)](https://github.com/librenms/librenms/stargazers)  
+- **[LibreNMS](https://github.com/librenms/librenms)** [![GitHub_Stars](https://img.shields.io/github/stars/librenms/librenms?style=social&color=white)](https://github.com/librenms/librenms/stargazers)  
   Autodiscovering PHP/MySQL/SNMP network monitoring system with active alert rules, billing modules, and interface graph visualization.
 
-- **[Nagios Core](https://github.com/NagiosEnterprises/nagioscore)** [![GitHub stars](https://img.shields.io/github/stars/NagiosEnterprises/nagioscore?style=social&color=white)](https://github.com/NagiosEnterprises/nagioscore/stargazers)  
+- **[Nagios Core](https://github.com/NagiosEnterprises/nagioscore)** [![GitHub_Stars](https://img.shields.io/github/stars/NagiosEnterprises/nagioscore?style=social&color=white)](https://github.com/NagiosEnterprises/nagioscore/stargazers)  
   Established open-source host, service, and network infrastructure availability monitoring engine.
 
-- **[Icinga 2](https://github.com/Icinga/icinga2)** [![GitHub stars](https://img.shields.io/github/stars/Icinga/icinga2?style=social&color=white)](https://github.com/Icinga/icinga2/stargazers)  
+- **[Icinga 2](https://github.com/Icinga/icinga2)** [![GitHub_Stars](https://img.shields.io/github/stars/Icinga/icinga2?style=social&color=white)](https://github.com/Icinga/icinga2/stargazers)  
   Scalable open-source monitoring system checking resource availability, performance metrics, and sending automated operational notifications.
 
-- **[Cacti](https://github.com/Cacti/cacti)** [![GitHub stars](https://img.shields.io/github/stars/Cacti/cacti?style=social&color=white)](https://github.com/Cacti/cacti/stargazers)  
+- **[Cacti](https://github.com/Cacti/cacti)** [![GitHub_Stars](https://img.shields.io/github/stars/Cacti/cacti?style=social&color=white)](https://github.com/Cacti/cacti/stargazers)  
   Robust open-source network graphing solution utilizing RRDTool to monitor bandwidth usage, interface stats, and SNMP targets.
 
-- **[LibreQoS](https://github.com/LibreQoE/LibreQoS)** [![GitHub stars](https://img.shields.io/github/stars/LibreQoE/LibreQoS?style=social&color=white)](https://github.com/LibreQoE/LibreQoS/stargazers)  
+- **[LibreQoS](https://github.com/LibreQoE/LibreQoS)** [![GitHub_Stars](https://img.shields.io/github/stars/LibreQoE/LibreQoS?style=social&color=white)](https://github.com/LibreQoE/LibreQoS/stargazers)  
   Open-source traffic management and network operations platform for ISPs, focused on QoE, bufferbloat reduction, and subscriber visibility.
 
-- **[OpenNMS Horizon](https://github.com/OpenNMS/opennms)** [![GitHub stars](https://img.shields.io/github/stars/OpenNMS/opennms?style=social&color=white)](https://github.com/OpenNMS/opennms/stargazers)  
+- **[OpenNMS Horizon](https://github.com/OpenNMS/opennms)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenNMS/opennms?style=social&color=white)](https://github.com/OpenNMS/opennms/stargazers)  
   Enterprise-grade open-source network management platform providing fault management, performance monitoring, event correlation, and inventory.
 
-- **[NOC Project](https://github.com/gufolabs/noc)** [![GitHub stars](https://img.shields.io/github/stars/gufolabs/noc?style=social&color=white)](https://github.com/gufolabs/noc/stargazers)  
+- **[NOC Project](https://github.com/gufolabs/noc)** [![GitHub_Stars](https://img.shields.io/github/stars/gufolabs/noc?style=social&color=white)](https://github.com/gufolabs/noc/stargazers)  
   Full-featured open-source Operation Support System (OSS) for telecom and enterprise NOCs, featuring Fault, Performance, Inventory, and Topology.
 
-- **[Observium](https://github.com/observium/observium)** [![GitHub stars](https://img.shields.io/github/stars/observium/observium?style=social&color=white)](https://github.com/observium/observium/stargazers)  
+- **[Observium](https://github.com/observium/observium)** [![GitHub_Stars](https://img.shields.io/github/stars/observium/observium?style=social&color=white)](https://github.com/observium/observium/stargazers)  
   Autodiscovering network monitoring platform providing intuitive web interface for device health and network traffic visualization.
 
-- **[Boda Telecom Suite (BTS-CE)](https://github.com/bodastage/bts-ce)** [![GitHub stars](https://img.shields.io/github/stars/bodastage/bts-ce?style=social&color=white)](https://github.com/bodastage/bts-ce/stargazers)  
+- **[Boda Telecom Suite (BTS-CE)](https://github.com/bodastage/bts-ce)** [![GitHub_Stars](https://img.shields.io/github/stars/bodastage/bts-ce?style=social&color=white)](https://github.com/bodastage/bts-ce/stargazers)  
   Open-source telecommunication network management platform focused on RAN configuration management, network audit, and topology.
 
-- **[NMS Prime / CableLabs OS Provisioning](https://github.com/cablelabs/os-provisioning)** [![GitHub stars](https://img.shields.io/github/stars/cablelabs/os-provisioning?style=social&color=white)](https://github.com/cablelabs/os-provisioning/stargazers)  
+- **[NMS Prime / CableLabs OS Provisioning](https://github.com/cablelabs/os-provisioning)** [![GitHub_Stars](https://img.shields.io/github/stars/cablelabs/os-provisioning?style=social&color=white)](https://github.com/cablelabs/os-provisioning/stargazers)  
   Open-source network management and provisioning platform supporting DOCSIS, FTTH, DSL, and wireless access networks.
 
 ---
